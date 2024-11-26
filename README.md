@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Image of the Shopping Cart
+- <p><img src="images/react_shopping.jpg" alt="react_shopping" width="800px"></p>
+
 ## Available Scripts
 
 In the project directory, you can run:
